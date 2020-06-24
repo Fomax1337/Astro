@@ -1,0 +1,78 @@
+//out: false
+
+.history {
+  width: 100%;
+  padding: 65px 0;
+  margin-bottom: 65px;
+
+  background-color: #f5f5f5;
+}
+
+.history__list {
+  display: flex;
+  justify-content: space-between;
+
+  margin: 0;
+  padding: 0;
+
+  width: 80%;
+  margin: 0 auto;  
+
+  list-style: none;
+}
+
+.history-item {
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  
+  width: 20%;
+}
+
+.history-item::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: calc(50% - 40px);
+
+  width: 80px;
+  height: 80px;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.history-item--astornaut::before {
+  background-image: url("../img/astronaut.svg");
+}
+
+.history-item--rocket::before{
+  background-image: url("../img/rocket.svg");
+}
+
+.history-item--earth::before {
+  background-image: url("../img/world.svg");
+}
+
+.history-item__title {
+  margin: 0;
+  padding: 0;
+
+  padding-top: 100px;
+
+  font-family: "Open Sans Regular", Arial, sans-serif;
+  font-size: 28px;
+  line-height: 30px;
+}
+
+.history-item__desk {
+  margin: 0;
+  padding: 0;
+
+  padding-top: 15px;
+
+  font-family: "Open Sans Light", Arial, sans-serif;
+}

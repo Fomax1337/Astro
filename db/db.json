@@ -1,0 +1,49 @@
+[
+  {
+    "id":1,
+    "poster": "https://i.ibb.co/bgq6g6c/mars-1920x1080.jpg",
+    "title": "Mars",
+    "description": "The fourth planet from the sun, known for its rarefied atmosphere. Since 1960, Mars has been actively explored by scientists from several countries, including the USSR and the United States. Not all research programs have been successful, but water found in some areas suggests that primitive life on Mars exists, or has existed in the past. The brightness of this planet allows to see it from the Earth without any instruments. And every 15-17 years, during the Confrontation, it becomes the brightest object in the sky, eclipsing even Jupiter and Venus. The radius is almost twice less than the earthly one and makes 3390 km, but a year is much longer - 687 days."
+  },
+  {
+    "id":2,
+    "poster": "https://i.ibb.co/b1D8MPB/uranus-1920x1080.jpg",
+    "title": "Uranus",
+    "description": "It is the seventh and third largest planet with a radius of 25267 km. Fairly considered the coldest planet among others, the temperature reaches -224 degrees Celsius. Duration of the year - 30 685 days in the Earth calculus (almost 84 years), a day a little less than earthly - 17 with small hours. Because of the strong inclination of the planet's axis, sometimes there is an impression that it does not rotate like the other celestial bodies of our system, but rolls like a ball. The most famous are Titania, Ariel, Oberon, Umbriel and Miranda. They're not as big as the satellites."
+  },
+  {
+    "id":3,
+    "poster": "https://i.ibb.co/J2DhcL6/jupiter-1920x1080.jpg",
+    "title": "Jupiter",
+    "description": "Fifth from the Sun and the largest planet in our system. Its radius is 69912 km, it is 19 times larger than the Earth and only 10 times smaller than the Sun. The year on Jupiter is not the longest in the solar system, it lasts 4333 earthly days (not full 12 years). Its own days have a duration of about 10 Earth hours. The exact composition of the planet's surface has not yet been determined, but it is known that krypton, argon and xenon are present in much larger quantities on Jupiter than on the Sun. It is believed that one of the four gas giants is in fact a failed star. This theory is also supported by the largest number of satellites that Jupiter has, as many as 67. The biggest of them are Callisto, Ganymede, Io and Europe."
+  },
+  {
+    "id":4,
+    "poster": "https://i.ibb.co/zPX1djH/mercury-1920x1080.jpg",
+    "title": "Mercury",
+    "description": "The smallest planet in the solar system has a radius of only 2440 km. The period of rotation around the Sun, for simplicity of understanding equated to an Earth year, is 88 days, and the rotation around its own axis Mercury has time to make only one and a half times. Thus, it lasts approximately 59 earthly days per day. Its proximity to the Sun has caused Mercury to experience the largest temperature changes among the planets in our system. Average daytime temperatures are around 350 degrees Celsius, and nighttime temperatures are -170 degrees Celsius. Sodium, oxygen, helium, potassium, hydrogen and argon have been detected in the atmosphere."
+  },
+  {
+    "id":5,
+    "poster": "https://i.ibb.co/YTW90rm/saturn-1920x1080.jpg",
+    "title": "Saturn",
+    "description": "The second largest planet and the sixth largest in the solar system. Compared to the other planets, it's the most similar composition of chemical elements to the Sun. The surface radius is 57350 km, the year is 10 759 days (almost 30 Earth years). The day here lasts 10.5 Earth hours. The number of satellites is 62. The largest satellite of Saturn is Titan, distinguished by the presence of the atmosphere. A little smaller than it is, but no less famous are Enceladus, Rhea, Diona, Tefia, Yapet and Mimas."
+  },
+  {
+    "id":6,
+    "poster": "https://i.ibb.co/bW4xVM6/venus-1920x1080.jpg",
+    "title": "Venus",
+    "description": "The second planet from the Sun, whose atmosphere is almost entirely composed of carbon dioxide. It is often called the Morning Star and the Evening Star because it is the first star to be visible after sunset, just as it continues to be visible before dawn when all other stars have disappeared from view. It has a carbon dioxide percentage of 96%, relatively little nitrogen in the atmosphere - almost 4% and very little water vapour and oxygen. Such an atmosphere creates a greenhouse effect, with surface temperatures reaching 475 °C. The day lasts 243 earthly days. There are no satellites."
+  },{
+    "id":7,
+    "poster": "https://i.ibb.co/QKzBpdQ/earth-1920x1080.jpg",
+    "title": "Earth",
+    "description": "The third planet from the Sun and the only one in our system where there is liquid water on the surface, without which life on the planet could not develop. At least life as we know it. The radius of the Earth is 6371 km and, unlike the rest of the celestial bodies of our system, more than 70% of its surface is covered with water. The rest of the space is occupied by the continents. Another feature of the Earth is the tectonic plates hidden under the planet's mantle. At the same time they are able to move, albeit at a very slow speed, which over time causes a change in the landscape. The speed of movement of the planet on it - 29-30 km / sec. The Earth has one natural satellite, the Moon."
+  },
+  {
+    "id":8,
+    "poster": "https://i.ibb.co/vLtkyZ7/neptune-1920x1080.jpg",
+    "title": "Neptune",
+    "description": "Neptune's radius is 24547 km. A year on the planet is 60,190 days (approximately 164 Earth years). The strongest winds in our system are recorded in the atmosphere, with speeds up to 260 m/s. In comparison with other giant planets it has very few satellites - only 14. The most famous of these are Triton, the third atmospheric satellite in the solar system, Proteus and Nereid. It is noteworthy that this is the only one of the planets, which was discovered not through observations, but through mathematical calculations."
+  }
+]
